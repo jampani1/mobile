@@ -13,6 +13,6 @@ Repositório criado para armazenar os projetos, exercícios e atividades da disc
 
 
 para limpar as credenciais do github no notebook da fatec: 
-git credential reject
-url=https://github.com
+cmdkey /delete:LegacyGeneric:target=git:https://github.com
+
 
