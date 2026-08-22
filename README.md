@@ -4,8 +4,15 @@ Repositório criado para armazenar os projetos, exercícios e atividades da disc
 ### Tecnologias Utilizadas
 
 * **Linguagem / Framework:** React Native
-* **Ambiente de Desenvolvimento:** VS Code
+* **Ambiente de Desenvolvimento:** VS Code / expo.dev (Expo > Snaks)
 
 **Aluno:** jampani1
 **Instituição:** FATEC
 **Semestre:** ago/2026
+
+
+
+para limpar as credenciais do github no notebook da fatec: 
+git credential reject
+url=https://github.com
+
